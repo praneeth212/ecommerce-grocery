@@ -38,6 +38,7 @@ This application follows a basic ecommerce model with a focus on core functional
 - **Backend**: Java Spring Boot
 - **Frontend**: React
 - **Database**: MySQL
+- **CSS**: Tailwind CSS, Material UI
 
 ## Usage
 

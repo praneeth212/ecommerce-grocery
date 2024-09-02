@@ -1,4 +1,4 @@
-# # E-Commerce Grocery Platform 
+# E-Commerce Grocery Platform 
 
 This repository contains a full-stack e-commerce application built with microservices architecture. It includes the following components:
 

@@ -1,0 +1,6 @@
+projectKey=CapstoneProjectFrontend
+serverUrl=http://localhost:3000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:3000/dashboard?id=CapstoneProjectFrontend
+ceTaskId=3f514de7-1a3c-4dd5-9c1b-89bb64454cb1
+ceTaskUrl=http://localhost:3000/api/ce/task?id=3f514de7-1a3c-4dd5-9c1b-89bb64454cb1
